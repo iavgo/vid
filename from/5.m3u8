@@ -3,12 +3,6 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
-#EXTINF:10.473000,
-https://s3plus.meituan.net/v1/mss_550586ef375b493da4aa79bebdfce4fa/csc-apply-file-web/prod/2022-03-07/1584c7be-cd43-47d6-9253-e02879639e18null
-#EXTINF:9.991000,
-https://s3plus.meituan.net/v1/mss_550586ef375b493da4aa79bebdfce4fa/csc-apply-file-web/prod/2022-03-07/33ac3fd5-5350-472b-9422-86385dae5ce8null
-#EXTINF:10.427000,
-https://s3plus.meituan.net/v1/mss_550586ef375b493da4aa79bebdfce4fa/csc-apply-file-web/prod/2022-03-07/b08e7328-d073-41de-a8dc-2755a2431dd3null
 #EXTINF:10.427000,
 https://s3plus.meituan.net/v1/mss_550586ef375b493da4aa79bebdfce4fa/csc-apply-file-web/prod/2022-03-07/56c0ebe6-5a9e-42bb-a2ea-23ba6d76ba73null
 #EXTINF:10.427000,
