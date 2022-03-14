@@ -3,8 +3,6 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:15
-#EXTINF:10.480000,
-https://s3plus.meituan.net/v1/mss_550586ef375b493da4aa79bebdfce4fa/csc-apply-file-web/prod/2022-03-13/aa72ed69-077d-41ac-b429-8fdd1391d80dnull
 #EXTINF:10.360000,
 https://s3plus.meituan.net/v1/mss_550586ef375b493da4aa79bebdfce4fa/csc-apply-file-web/prod/2022-03-13/32a0f7ed-d4d3-48c5-a8d6-747b44f9f946null
 #EXTINF:10.000000,
